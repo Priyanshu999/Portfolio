@@ -102,9 +102,21 @@
     /* text-align: right; */
 }
 
+.name-col{
+    /* font-size: 5% !important; */
+    float: left;
+}
+
+.name-col h1{
+    font-size: 7.5vw !important;
+}
+
 .image-col{
+    /* text-align: right; */
     text-align: right;
     padding-top: 65px;
+    float: right;
+
 }
 
 .loader{
