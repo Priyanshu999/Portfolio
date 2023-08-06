@@ -64,7 +64,7 @@
 .revolve{
     width: 150px;
     /* border: 1px solid red; */
-    left: 800px;
+    left: 52%;
     top: 65px;
     position:absolute;
     z-index: 0;
